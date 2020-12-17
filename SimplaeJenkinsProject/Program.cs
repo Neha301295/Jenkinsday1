@@ -10,7 +10,7 @@ namespace SimplaeJenkinsProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(  "Hello World");
+            Coonsole.WriteLine(  "Hello World");
             Console.ReadKey();
         }
     }

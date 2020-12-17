@@ -1,0 +1,7 @@
+D:\C#\Spl\Day3\SimplaeJenkinsProject\SimplaeJenkinsProject\bin\Debug\SimplaeJenkinsProject.exe.config
+D:\C#\Spl\Day3\SimplaeJenkinsProject\SimplaeJenkinsProject\bin\Debug\SimplaeJenkinsProject.exe
+D:\C#\Spl\Day3\SimplaeJenkinsProject\SimplaeJenkinsProject\bin\Debug\SimplaeJenkinsProject.pdb
+D:\C#\Spl\Day3\SimplaeJenkinsProject\SimplaeJenkinsProject\obj\Debug\SimplaeJenkinsProject.csprojAssemblyReference.cache
+D:\C#\Spl\Day3\SimplaeJenkinsProject\SimplaeJenkinsProject\obj\Debug\SimplaeJenkinsProject.csproj.CoreCompileInputs.cache
+D:\C#\Spl\Day3\SimplaeJenkinsProject\SimplaeJenkinsProject\obj\Debug\SimplaeJenkinsProject.exe
+D:\C#\Spl\Day3\SimplaeJenkinsProject\SimplaeJenkinsProject\obj\Debug\SimplaeJenkinsProject.pdb
